@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+transformers
+faiss-cpu
+torch
+pandas
+numpy
+sacrebleu
+rouge-score
